@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\Programming2025Class-2024010657\\Project2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3099654F-839B-45AF-A280-70B74E03D1CD}|Project2.vcxproj|C:\\Users\\User\\Documents\\GitHub\\Programming2025Class-2024010657\\Project2\\project2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3099654F-839B-45AF-A280-70B74E03D1CD}|Project2.vcxproj|solutionrelative:project2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "project2.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Programming2025Class-2024010657\\Project2\\project2.cpp",
+              "RelativeDocumentMoniker": "project2.cpp",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Programming2025Class-2024010657\\Project2\\project2.cpp*",
+              "RelativeToolTip": "project2.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-08T06:22:57.654Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
