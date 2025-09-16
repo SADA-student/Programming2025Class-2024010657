@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\Programming2025Class-2024010657\\main2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18A81690-CFDC-4654-A064-170F76E8794A}|main2.vcxproj|C:\\Users\\User\\Documents\\GitHub\\Programming2025Class-2024010657\\main2\\hobby.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{18A81690-CFDC-4654-A064-170F76E8794A}|main2.vcxproj|solutionrelative:hobby.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hobby.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Programming2025Class-2024010657\\main2\\hobby.cpp",
+              "RelativeDocumentMoniker": "hobby.cpp",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Programming2025Class-2024010657\\main2\\hobby.cpp*",
+              "RelativeToolTip": "hobby.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-16T21:32:28.871Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
