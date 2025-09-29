@@ -1,0 +1,3 @@
+﻿  Project1.cpp
+C:\Users\User\Documents\GitHub\Programming2025Class-2024010657\main6\Project1.cpp(11,15): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  main6.vcxproj -> C:\Users\User\Documents\GitHub\Programming2025Class-2024010657\main6\x64\Debug\main6.exe
