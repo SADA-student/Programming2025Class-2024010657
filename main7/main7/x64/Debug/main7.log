@@ -1,0 +1,4 @@
+﻿  Project1.cpp
+C:\Users\User\Documents\GitHub\Programming2025Class-2024010657\main7\Project1.cpp(21,9): warning C4477: 'printf' : 서식 문자열 '% s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\User\Documents\GitHub\Programming2025Class-2024010657\main7\Project1.cpp(21,9): warning C4313: 'printf': 서식 문자열의 '%s'이(가) int' 형식의 인수 1과(와) 충돌합니다.
+  main7.vcxproj -> C:\Users\User\Documents\GitHub\Programming2025Class-2024010657\main7\x64\Debug\main7.exe
