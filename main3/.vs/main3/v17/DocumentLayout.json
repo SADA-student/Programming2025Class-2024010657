@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{0FDF8F13-BBD9-4D3B-BF7D-C7DDB653E051}|main3.vcxproj|C:\\Users\\User\\Documents\\GitHub\\Programming2025Class-2024010657\\main3\\Project1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0FDF8F13-BBD9-4D3B-BF7D-C7DDB653E051}|main3.vcxproj|solutionrelative:Project1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDF8F13-BBD9-4D3B-BF7D-C7DDB653E051}|main3.vcxproj|C:\\Users\\User\\Documents\\GitHub\\Programming2025Class-2024010657\\main3\\Project2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0FDF8F13-BBD9-4D3B-BF7D-C7DDB653E051}|main3.vcxproj|solutionrelative:Project2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Project2.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Programming2025Class-2024010657\\main3\\Project2.cpp",
+              "RelativeDocumentMoniker": "Project2.cpp",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Programming2025Class-2024010657\\main3\\Project2.cpp",
+              "RelativeToolTip": "Project2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-22T07:02:04.314Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "Project1.cpp",
               "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Programming2025Class-2024010657\\main3\\Project1.cpp*",
               "RelativeToolTip": "Project1.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-22T06:10:44.305Z",
               "EditorCaption": ""

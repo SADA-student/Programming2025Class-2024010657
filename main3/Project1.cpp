@@ -1,14 +1,32 @@
 #include <stdio.h>
 
+#define PI_VALUE 3.14159265358979323846
 
 int main(void)
 {
-	int age = 21;
-	unsigned int count = 3000000000;
-	float score = 93.5f;
-	const char* title = "Basic Constants";
-	const char* name = "Jeonghun";
-	char initial = name[0];
-	printf("=== %s ===\n Name \t : %s\n Initial : %c\n Age : %d\n Score \t : %.6f\n Count \t : %u\n", title, name, initial, age, score, count);
+	int version = 1;
+
+	unsigned int year = 2025;
+
+	const char* title = "C \"printf\" demo";
+
+	int widt_demo_num = 123;
+
+	char sample_char = 'A';
+
+	printf("=== Constants & Formats ===\n");
+
+	printf("Course: C Programming (v%d, %u)\n", version, year);
+
+	printf("Title : %s\n", title);
+
+	printf("PI default \t : %f\n", PI_VALUE);
+	printf("PI 2 digits \t : %.2f\n", PI_VALUE);
+
+	printf("Width demo \t : [%8d]\n", widt_demo_num);
+
+	printf("Char sample \t : %c\n", sample_char);
+	printf("Backslash \t : \\\\\n"); // 백슬래시 두 개를 사용하여 출력
+
 	return 0;
 }
