@@ -1,0 +1,7 @@
+﻿  hobby.cpp
+C:\Users\User\Documents\GitHub\Programming2025Class-2024010657\hobby3\hobby.cpp(55,17): warning C4566: 유니버설 문자 이름 '\u26A0'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\User\Documents\GitHub\Programming2025Class-2024010657\hobby3\hobby.cpp(55,17): warning C4566: 유니버설 문자 이름 '\uFE0F'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\User\Documents\GitHub\Programming2025Class-2024010657\hobby3\hobby.cpp(66,17): warning C4566: 유니버설 문자 이름 '\u2705'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\User\Documents\GitHub\Programming2025Class-2024010657\hobby3\hobby.cpp(68,17): warning C4566: 유니버설 문자 이름 '\u274C'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\User\Documents\GitHub\Programming2025Class-2024010657\hobby3\hobby.cpp(68,17): warning C4566: 유니버설 문자 이름 '\u2014'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+  hobby3.vcxproj -> C:\Users\User\Documents\GitHub\Programming2025Class-2024010657\hobby3\x64\Debug\hobby3.exe
