@@ -1,2 +1,4 @@
 ﻿  Project.cpp
-  main11.vcxproj -> C:\Users\User\Documents\GitHub\Programming2025Class-2024010657\main11\x64\Debug\main11.exe
+C:\Users\User\Documents\GitHub\Programming2025Class-2024010657\main11\Project.cpp(9,29): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\User\Documents\GitHub\Programming2025Class-2024010657\main11\Project.cpp(11,30): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\User\Documents\GitHub\Programming2025Class-2024010657\main11\Project.cpp(7,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

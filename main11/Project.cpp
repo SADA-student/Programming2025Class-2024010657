@@ -2,12 +2,17 @@
 
 int main(void)
 {
-	int i = 0;
+	int n;
 
-	while (i < 100)
+	scanf("%d", &n);
+
+	for (unsigned int i = 2; i <= n; i++)
 	{
-		i = i + i;
+		 for (unsigned int j = 1; j<= n; j++)
+		 {
+			 printf("%d * %d = %d\n", i, j, i * j);
+		 }
+		 printf("\n");
 	}
-		printf("%d", i);
-
+	return 0;
 }
