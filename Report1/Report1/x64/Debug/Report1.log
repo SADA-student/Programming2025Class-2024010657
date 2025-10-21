@@ -1,0 +1,3 @@
+﻿  Example code.cpp
+Input and output function examples.obj : error LNK2005: main이(가) Example code.obj에 이미 정의되어 있습니다.
+C:\Users\sada\source\repos\Report1\x64\Debug\Report1.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.

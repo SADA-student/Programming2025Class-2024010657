@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int main(void) {
+    int a, b;
+    printf("두 정수를 입력하세요: ");
+    scanf("%d %d", &a, &b);
+
+    printf("합: %d\n", a + b);
+    printf("곱: %d\n", a * b);
+    printf("관계 연산 예시: %d > %d = %d\n", a, b, a > b);
+    printf("논리 연산 예시: (a>0)&&(b>0) = %d\n", (a>0)&&(b>0));
+
+    return 0;
+}

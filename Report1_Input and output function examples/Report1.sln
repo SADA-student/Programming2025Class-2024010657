@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Report1", "Report1_Input and output function examples\Report1_Input and output function examples.vcxproj", "{7862D6EE-8E36-4BE3-822A-8AEDDC436644}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Input", "Input", "{C8D5274F-AC00-46C7-1F8D-E88E81087A52}"
+	ProjectSection(SolutionItems) = preProject
+		Input and output function examples = Input and output function examples
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7862D6EE-8E36-4BE3-822A-8AEDDC436644}.Debug|x64.ActiveCfg = Debug|x64
+		{7862D6EE-8E36-4BE3-822A-8AEDDC436644}.Debug|x64.Build.0 = Debug|x64
+		{7862D6EE-8E36-4BE3-822A-8AEDDC436644}.Debug|x86.ActiveCfg = Debug|Win32
+		{7862D6EE-8E36-4BE3-822A-8AEDDC436644}.Debug|x86.Build.0 = Debug|Win32
+		{7862D6EE-8E36-4BE3-822A-8AEDDC436644}.Release|x64.ActiveCfg = Release|x64
+		{7862D6EE-8E36-4BE3-822A-8AEDDC436644}.Release|x64.Build.0 = Release|x64
+		{7862D6EE-8E36-4BE3-822A-8AEDDC436644}.Release|x86.ActiveCfg = Release|Win32
+		{7862D6EE-8E36-4BE3-822A-8AEDDC436644}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE6B7960-14A2-4B85-B6ED-295A83C2B1DC}
+	EndGlobalSection
+EndGlobal
