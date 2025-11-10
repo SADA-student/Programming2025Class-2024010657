@@ -1,0 +1,11 @@
+﻿  Project.cpp
+C:\Users\User\Documents\GitHub\Programming2025Class-2024010657\main14\Project.cpp(8,6): error C2086: 'int first_number': 재정의
+      C:\Users\User\Documents\GitHub\Programming2025Class-2024010657\main14\Project.cpp(5,6):
+      'first_number' 선언을 참조하십시오.
+  
+C:\Users\User\Documents\GitHub\Programming2025Class-2024010657\main14\Project.cpp(9,6): error C2086: 'int second_number': 재정의
+      C:\Users\User\Documents\GitHub\Programming2025Class-2024010657\main14\Project.cpp(5,20):
+      'second_number' 선언을 참조하십시오.
+  
+C:\Users\User\Documents\GitHub\Programming2025Class-2024010657\main14\Project.cpp(11,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Documents\GitHub\Programming2025Class-2024010657\main14\Project.cpp(12,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
