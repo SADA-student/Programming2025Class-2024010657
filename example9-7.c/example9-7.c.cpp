@@ -1,22 +1,24 @@
 #include <stdio.h>
 
-void swap(int* pa, int* pb);
+void swap_pointer(int* pnA, int* pnB);
+void swap_normal(int nA, int nB);
 
 int main(void)
 {
-	int a = 10, b = 20;
+	int nA = 0, nB = 0;
+	nA = 10;
+	nB = 20;
 
-	swap(&a, &b);
-	printf("a:%d, b:%d\n", a, b);
+	int *pnA, *pnB;
+	pnA = &nA;
+	pnB = &nB;
 
-	return 0;
-}
+	printf("before swap : (nA,nB)=(%d,%d)\n", nA, nB);
 
-void swap(int* pa, int* pb)
-{
-	int temp;
+	swap_pointer(pnA, pnB);
+	//swap_normal(int pnA, int pnB);
 
-	temp = *pa;
-	*pa = *pb;
-	*pb = temp;
+
+	printf("after swap:(nA,nB)=(%d,%d)\n", nA, nB);
+	
 }
